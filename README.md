@@ -1,6 +1,6 @@
 ## [Pragmaxim](https://pragmaxim.com/)
 
-[![My Skills](https://skills.thijs.gg/icons?i=scala,haskell,git,github,linux,cassandra,kubernetes,gcp,docker,py,react,ts,nodejs,vscode,idea)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=scala,haskell,git,github,linux,cassandra,kubernetes,gcp,docker,py,react,ts,css,graphql,nodejs,vscode,idea,ipfs)](https://skills.thijs.gg)
 
 - 👷 eUTXO blockchains (Ergo, Cardano), Hyperledger, Daml
 
