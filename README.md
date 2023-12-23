@@ -5,4 +5,6 @@
 - 👷 I enjoy being useful
 
 ### 📬 Get in Touch
+- [Website](https://pragmaxim.com/)
 - [LinkedIn](https://www.linkedin.com/in/jakubliska/)
+- [Github](https://github.com/pragmaxim-com)
